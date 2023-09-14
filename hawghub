@@ -13,10 +13,6 @@ elseif gameId == 3533803429 then
 elseif gameId == 184199275 then
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/606aebad3dd6aaa4e02ce31839814cae.lua"))()
 
---// Murder Mystery 2
-elseif gameId == 66654135 then
-  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4e81983e81160bed06c7504f937fb46b.lua"))()
-
 --// OFL
 elseif gameId == 4727827371 or gameId == 1358118001 or gameId == 1254792054 then
   
